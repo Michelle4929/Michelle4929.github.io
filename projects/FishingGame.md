@@ -10,7 +10,7 @@ labels:
   - GitHub
 summary: "A Hawaiian fishing tournament game my group developed for ICS 211."
 ---
-<img/fishing tournament.png>
+<img class="img-fluid" src="img/fishing tournament.png">
 
 Fishing tournament is a competitive two player game to see who can catch the three largest fish. In a span of a year (in-game time), the two players will alternate turns (one turn per month), then catch fish until the end of one year and the player with the three largest fish is the winner. This game implements 3 different hawaiian fish families; puaama, uhu, and weke. In the game, legal size, season, and catch methods are very important, as each family of fish will have different rules. If they catch a fish under legal size, the player will be punished by having all their fish confiscated. Certain fish cannot be caught in certain months as well. While other fish families will have different catch methods, such as "net" or "pole". Each month, the player has three attempts to catch a fish, which randomly will not hook or hook a fish. When hooking a fish, then there is a chance it is caught or gets away. Once caught, the player has the option to keep the fish, caution: players must watchout for legal size. Also, every month that passes, the fish caught will actually grow and sometimes evolve into a bigger fish of their species depending on the size of growth and gender of the fish.
  
