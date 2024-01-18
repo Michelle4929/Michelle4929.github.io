@@ -11,28 +11,62 @@ labels:
 summary: "A Hawaiian fishing tournament game my group developed for ICS 211."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 Fishing tournament is a competitive two player game to see who can catch the three largest fish. In a span of a year (in-game time), the two players will alternate turns (one turn per month), then catch fish until the end of one year and the player with the three largest fish is the winner. This game implements 3 different hawaiian fish families; puaama, uhu, and weke. In the game, legal size, season, and catch methods are very important, as each family of fish will have different rules. If they catch a fish under legal size, the player will be punished by having all their fish confiscated. Certain fish cannot be caught in certain months as well. While other fish families will have different catch methods, such as "net" or "pole". Each month, the player has three attempts to catch a fish, which randomly will not hook or hook a fish. When hooking a fish, then there is a chance it is caught or gets away. Once caught, the player has the option to keep the fish, caution: players must watchout for legal size. Also, every month that passes, the fish caught will actually grow and sometimes evolve into a bigger fish of their species depending on the size of growth and gender of the fish.
 
 In this project, I learned how to implement a fishable interface using object classes, having a superclass and abstract subclasses. The game my team developed uses Java's objected oriented programming.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how the game simulates fishing:
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+ public static void lawai_a(ArrayList<FishableI_a> fishPond) {
+      Random randGen = new Random();
+      FishableI_a ia;
+      int chosenFish = 0;
+      boolean isCaught = false;
+      boolean isLegal = false;
+      
+      String[] months;
+      months = new String[]{"January", "January", "February", "February", "March", "March", 
+         "April", "April", "May", "May", "June", "June", "July", "July", "August", "August",
+         "September", "September", "October", "October", "November", "November", 
+         "December", "December"};
+      Scanner scan = new Scanner(System.in);
+      String menuChoice = "";
+      String ynChoice = "";
+      boolean validMenu = false; 
+      boolean validYn = false; 
+      boolean player1 = true; 
+      ArrayList<FishableI_a> p1Sack = new ArrayList<>();  
+      ArrayList<FishableI_a> p2Sack = new ArrayList<>();  
+      //set game to be one year, both player have a turn in each month
+      for (int i = 0; i < MONTH; i++) {
+         System.out.println("\nMonth: " + months[i]);
+         //starts I_a game
+         if (player1) {
+            System.out.println("Player 1, it is your turn!");
+         } else {
+            System.out.println("Player 2, it is your turn!");
+         }
+         //sets players fish cast to 3 attempts
+         int attempts = 0;
+         while (attempts < 3) {
+            //menu options for players
+            validMenu = false;
+            while (!validMenu) {
+               System.out.println("* Choose: \n"
+                                + "  1. Cast out for a fish\n"
+                                + "  2. View sack of fish\n"
+                                + "  3. Release a fish from your sack");
+               menuChoice = scan.nextLine().trim();
+               if (menuChoice.equals("1") 
+                   || menuChoice.equals("2") || menuChoice.equals("3")) {
+                  validMenu = true;
+               } else {
+                  System.out.println("Please enter 1, 2, or 3");
+               }
+            }
+               
+
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more at the https://github.com/ICSatKCC/assignment-8---final-project-fishing-game---s22-assignment-8-group-1.
