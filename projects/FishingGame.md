@@ -69,4 +69,4 @@ Here is some code that illustrates how the game simulates fishing:
 
 ```
 
-You can learn more at the https://github.com/ICSatKCC/assignment-8---final-project-fishing-game---s22-assignment-8-group-1.
+Source: <a href="https://github.com/ICSatKCC/assignment-8---final-project-fishing-game---s22-assignment-8-group-1"><i class="large github icon "></i>fishing/ics-211-game</a>
