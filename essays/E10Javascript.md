@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
-published: false
+published: true
 labels:
   - Engineering
 ---
