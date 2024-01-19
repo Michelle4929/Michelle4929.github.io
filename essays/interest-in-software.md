@@ -11,6 +11,8 @@ labels:
   - Experience
 ---
 
+<img class="img-fluid" src="../img/soft.jpg">       <img class="img-fluid" src="../img/rock.jpg">
+
 ## Software Engineering
 
 Sofware engineering, one of the many different branches of computer science. Maybe we should first delve into what even computer science. Computer science is the study of computers and computations systems. It focuses on the development and testing of software and software systems. I've had many people confuse computer science and information technology(IT) as the samething. Although both involve computers, computer science focuses on development of software while IT focuses on the implementation, support, and management of computers. In other words, software engineers make the systems, while IT professionals make sure the computer and systems work well for all users.
