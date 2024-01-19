@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting on Javascript"
+title: "Is Javascript better than Java?!"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
