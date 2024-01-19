@@ -12,7 +12,6 @@ labels:
 summary: "A short story I wrote that was published in 2018 Le'ahi Creative Arts Journal."
 ---
 
-## The Bond of Sisters
 
 “Of course,” I reply, a tender warmth
 blossoming in my chest. “That’s what
