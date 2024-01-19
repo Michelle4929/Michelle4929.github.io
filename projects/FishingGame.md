@@ -18,58 +18,27 @@ I had 2 other group members and we were all in charge of one fish family. I code
 
 In this project, I learned how to implement a fishable interface using object classes, having a superclass and abstract subclasses. The game my team developed used Java's objected oriented programming. 
 
-Here is some code that illustrates how the game simulates fishing:
+Here is some code that illustrates the eat method to increase the length of the fish:
 
 ```cpp
- public static void lawai_a(ArrayList<FishableI_a> fishPond) {
-      Random randGen = new Random();
-      FishableI_a ia;
-      int chosenFish = 0;
-      boolean isCaught = false;
-      boolean isLegal = false;
-      
-      String[] months;
-      months = new String[]{"January", "January", "February", "February", "March", "March", 
-         "April", "April", "May", "May", "June", "June", "July", "July", "August", "August",
-         "September", "September", "October", "October", "November", "November", 
-         "December", "December"};
-      Scanner scan = new Scanner(System.in);
-      String menuChoice = "";
-      String ynChoice = "";
-      boolean validMenu = false; 
-      boolean validYn = false; 
-      boolean player1 = true; 
-      ArrayList<FishableI_a> p1Sack = new ArrayList<>();  
-      ArrayList<FishableI_a> p2Sack = new ArrayList<>();  
-      //set game to be one year, both player have a turn in each month
-      for (int i = 0; i < MONTH; i++) {
-         System.out.println("\nMonth: " + months[i]);
-         //starts I_a game
-         if (player1) {
-            System.out.println("Player 1, it is your turn!");
-         } else {
-            System.out.println("Player 2, it is your turn!");
-         }
-         //sets players fish cast to 3 attempts
-         int attempts = 0;
-         while (attempts < 3) {
-            //menu options for players
-            validMenu = false;
-            while (!validMenu) {
-               System.out.println("* Choose: \n"
-                                + "  1. Cast out for a fish\n"
-                                + "  2. View sack of fish\n"
-                                + "  3. Release a fish from your sack");
-               menuChoice = scan.nextLine().trim();
-               if (menuChoice.equals("1") 
-                   || menuChoice.equals("2") || menuChoice.equals("3")) {
-                  validMenu = true;
-               } else {
-                  System.out.println("Please enter 1, 2, or 3");
-               }
-            }
-               
-
+ protected void grow() {
+      Random ran = new Random();
+      double lengthIncrease = ran.nextDouble() * growthRate;
+   
+      //calculate a new length by adding a random value between 0 and growthRate
+      double newLen = this.length + lengthIncrease;
+   
+      //check to see if this fish needs to level up
+      if (newLen > this.maxLength) {
+         throw new FishSizeException("This fish has outgrown its name, it must level up!");
+      } else {
+         this.length = newLen;
+         this.weight = 2 * newLen; //rudimentary weight calc
+      }
+   }
 ```
+
+Here is some code that illustrates the eat method to increase the length of the fish:
+
 
 Source: <a href="https://github.com/ICSatKCC/assignment-8---final-project-fishing-game---s22-assignment-8-group-1"><i class="large github icon "></i>fishing/ics-211-game</a>
