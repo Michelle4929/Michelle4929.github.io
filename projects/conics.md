@@ -24,4 +24,4 @@ When I was in high school, my teammates and I did a project mathematically provi
 
 We learned that it takes a lot of teamwork to build projects together. Everybody had their own responsibility, whether it was getting the right angle on the fizzy sticks or making the base of the conic. After we finished the project, we appreciated the arhitects and engineers even more on building the actual Kobe Tower. It was harder than we expected but a lot of fun!
 
-Source: <a href="https://docs.google.com/document/d/1c4nHBqdlAXzerCSVoWg1m9Cb3nZkQbHyu-uIhG1MfQA/edit?usp=sharing"><i class="large github icon "></i>ConicsResearchProject</a>
+Source: <a href="https://docs.google.com/document/d/10mhWSKnGa7CArvrl5f9c4nQA1JNdS-x9plqarP4X58w/edit?usp=sharing"><i class="large github icon "></i>ConicsResearchProject</a>
