@@ -22,6 +22,6 @@ When I was in high school, my teammates and I did a project mathematically provi
 
 <img class="img-fluid" src="../img/hyperboloid.jpg">
 
-We learned that it takes a lot of teamwork to build projects together. Everybody had their own responsibility, whether it was getting the right angle on the fizzy sticks to making the base of the conic. After we finished the project, we appreciated the arhitects and engineers even more on building the actual Kobe Tower. It was harder than we expected but a lot of fun!
+We learned that it takes a lot of teamwork to build projects together. Everybody had their own responsibility, whether it was getting the right angle on the fizzy sticks or making the base of the conic. After we finished the project, we appreciated the arhitects and engineers even more on building the actual Kobe Tower. It was harder than we expected but a lot of fun!
 
 Source: <a href="https://docs.google.com/document/d/1c4nHBqdlAXzerCSVoWg1m9Cb3nZkQbHyu-uIhG1MfQA/edit?usp=sharing"><i class="large github icon "></i>ConicsResearchProject</a>
