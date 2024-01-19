@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Kobetower.jpg
+image: img/leahifrontcover1.png
 title: "The Bond of Sisters"
 date: 2018
 published: true
@@ -24,7 +24,8 @@ Growing up, I enjoyed reading all the time. Whether the book was about fiction, 
 
 I submitted a short story I wrote for Eng 273 to Kapiolani Community College's Le'ahi: Creative Arts Journal. I was ecstatic to be chosen as one of authors in their journal. Before this journey, I have never imagined I would be chosen since I never had any other stories published or even attempted to. As I wrote this story, I never had the intention to release it publicly but after it got published, I was very greatful for the experience. It really taught me, things will never happen until you make the first move. With that mindset, I hope to continue moving forward and not being afraid of what comes next.
 
-<img class="img-fluid" src="../img/hyperboloid.jpg">
+<img class="img-fluid" src="../img/pages.png">
 
 You can find my short story on page 48!
-Source: <a href="https://docs.google.com/document/d/1c4nHBqdlAXzerCSVoWg1m9Cb3nZkQbHyu-uIhG1MfQA/edit?usp=sharing"><i class="large github icon "></i>ConicsResearchProject</a>
+
+Source: <a href="https://dspace.lib.hawaii.edu/server/api/core/bitstreams/e39c518f-f875-467d-8f97-4516baaeb09c/content"><i class="large github icon "></i>Spring 2018 Le'ahi Creative Arts Journal</a>
