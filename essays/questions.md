@@ -23,19 +23,17 @@ When asking a question, it is very important to ask them effectively. In most ca
 
 ## Stack Overflow
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Stack Overflow, a computer programmers best friend. A question-and-answer website for progammers of various needs. Although, you can technically ask any questions on Stack Overflow, any simple or badly phrased questions will most likely be overlooked or even criticized. It is very important to learn how to ask a question as well as asking appropriate questions in the proper location. Always be precise and informative about your problems. Specifics are always great in a question, it really helps the reviewer know how to help.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+#### Example of a Smart Question
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Here is a an example of a "smart question" on Stack Overflow.
 
-## In the context of relationships
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+#### Example of a Not Smart Question
 
-Relationships have always been difficult, and by nature will continue to be so.
+
 
 ## Okay!
 
