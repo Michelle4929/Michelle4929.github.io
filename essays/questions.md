@@ -27,7 +27,7 @@ Stack Overflow, a computer programmers best friend. A question-and-answer websit
 
 #### Example of a Smart Question
 
-Here is a an example of a "smart question" on Stack Overflow.
+Here is a an example of a "<a href="https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git"><i class="large github icon "></i>Smart Question</a>" on Stack Overflow.
 
 
 
