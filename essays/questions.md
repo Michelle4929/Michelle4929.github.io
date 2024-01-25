@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/stupid questions.gif">
+<img width="400px" class="rounded float-start pe-4" src="../img/stupid questions.gif">
 
 *There's no such thing as a stupid question.*
 
