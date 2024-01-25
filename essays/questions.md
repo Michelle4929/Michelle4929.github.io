@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/stupid questions.gif">
 
 *There's no such thing as a stupid question.*
 
@@ -29,11 +29,14 @@ Stack Overflow, a computer programmers best friend. A question-and-answer websit
 
 Here is a an example of a <a href="https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git"><i class="large github icon "></i>Smart Question</a> on Stack Overflow.
 
-
+Although it is a simple question that may be searched online for other possible solutions, stack overflow offers a more indepth answer then a simple google search. It might not be a complex question but it is still a smart question because of how clear and precise the question is. First, it has a clear goal in mind: To remove a commit in Git. Next, the details are nice additions, instead of saying a vague commit, it asks for the most recent local commit. Last, it also says where it wants it removed from, which is Git. Even though, it is simple in nature, it shows how well the question is recieved on stack overflow by the amount of views, votes, and answers. Most questions who are formatted wrong or stupid will sometimes not even be answered or looked at. This specific question on removing a commit has over 20,000 votes, 100 answers, and 13 million views. It only shows how much people are willing to answer and also how much people are also looking for the answers to the same question. Even though you could simply google search the answer to removing a local commit from Git, it wasn't as clear as stack overflow. After searching through stack overflow, they offer multiple ways of removal as well as indepth explanations on the different types. For example, on google, the first search only offers the run of "git reset -- Head^". While stack overflow shows many different ways of removal, such as "git reset", "git reset -- soft", "git reset -- hard", and much more.
 
 #### Example of a Not Smart Question
 
+Here is a an example of a <a href="https://stackoverflow.com/questions/44760112/marching-cubes-generating-holes-in-mesh"><i class="large github icon "></i>Not Smart Question</a> on Stack Overflow.
 
+Compared to the smart question example above, this question is an obvious not smart question from the get go. First, the title is too general. When having a programming issue, it's best to name as much details as possible so that the receiver can answer as precisely as possible. Just writing "Marching Cubes generating holes in mesh" is extremely vague and hard to know what exactly is the problem. There is no mention of where the code is being used for as well as what it is being used for in the title. Second, once clicking into the question, the user is bombarded with an abundance of information. When posting a coding question, codes with over 100 of lines to read over will most likely be looked over. Most people want to know where exactly you think your code is erroring so it is better to offer fewer codes and ask exactly which lines you might have a problem with. Even after sharing a huge block of code, they offer a link for more information with a lot of text to read, which makes it hard for users to answer or even know what exactly is the problem. As a result, there are no answers to this question even though it was posted over 6 years ago.
 
 ## Conclusion
 
+It is very important in any environment to ask questions. In order to utilize questions, it is pertinent to know the difference in asking a smart or not smart question. After diving deeper into how to ask a smart questions, I have learned some great lessons. When asking a smart question, it is good to be precise, informative, and appropriate no matter what situation. People also appreciate if you have attempted to look for the answers yourselves first, as it shows you at least tried and care about learning more of the subject matter. I think it is a great skill to be able to ask smart questions and that everybody could learn to incorporate this lesson in their daily life!
