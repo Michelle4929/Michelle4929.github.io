@@ -5,7 +5,7 @@ image: img/uhu better2.jpg
 title: "Fishing Tournament"
 date: 2022
 published: true
-labels:
+labels: 
   - Java
   - GitHub
 summary: "A Hawaiian fishing tournament game my group developed for ICS 211."
