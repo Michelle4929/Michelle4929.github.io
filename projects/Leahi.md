@@ -12,10 +12,6 @@ labels:
 summary: "A short story I wrote that was published in 2018 Le'ahi Creative Arts Journal."
 ---
 
-<p align="center">
-<img width="500px" class="rounded float-start pe-4" src="../img/pages.png">
-</p>
-
 ```
 “Of course,” I reply, a tender warmth
 blossoming in my chest. “That’s what
@@ -32,6 +28,10 @@ Growing up, I enjoyed reading all the time. Whether the book was about fiction, 
 ## How My Short Story Came to Be
 
 I submitted a short story I wrote for Eng 273 to Kapiolani Community College's Le'ahi: Creative Arts Journal. I was ecstatic to be chosen as one of authors in their journal. Before this journey, I have never imagined I would be chosen since I never had any other stories published or even attempted to. As I wrote this story, I never had the intention to release it publicly but after it got published, I was very greatful for the experience. It really taught me, things will never happen until you make the first move. With that mindset, I hope to continue moving forward and not being afraid of what comes next.
+
+<p align="center">
+<img width="500px" class="img-fluid"  src="../img/pages.png">
+</p>
 
 You can find my short story on page 48!
 
