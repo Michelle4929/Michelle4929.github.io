@@ -11,7 +11,7 @@ labels:
   - Experience
 ---
 
-<img class="img-fluid" src="../img/soft.jpg">                                         VERSUS                                                                     <img class="img-fluid" src="../img/rock.jpg">
+<p align="center"><img width="200px" class="rounded float-start pe-4" src="../img/soft.jpg">                                         VERSUS       <img width="200px" class="rounded float-start pe-4"  src="../img/rock.jpg">
 
 ## Software Engineering
 
