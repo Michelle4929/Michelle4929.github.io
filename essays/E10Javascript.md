@@ -11,10 +11,6 @@ labels:
   - Javascript
 ---
 
-<p align="center">
-<img width="400px" class="rounded float-start pe-4" src="../img/Java vs Javascript.webp">
-</p>
-
 *What is Javascript?*
 
 Javascript is a programming language for creating dynamic web pages, such as content, multimedia, animated images, and much more. Although there are many different programming languages out there like Javascript, the first language I learned was Java. Compared to Java I am fairly new to Javascript, and after trying it, I realized there were a lot of similarities as well as differences. In terms of coding, the syntax and programming concepts were similar, which made it easy to transition certain aspects. For example, programming loops, conditional statements, and syntax signs such as end code statements.
@@ -23,6 +19,10 @@ For differences, I would say the first thing I noticed was that Javascript felt 
 ## How I feel about Javascript
 
 My first experiences with Javascript were mostly positive due to how much easier it was to learn and implement. I felt like the syntax was simpler than the other two languages I dipped my knowledge into, being Java and C. Of course, I did make mistakes transitioning between the languages, despite the similarities, they are still different programming languages. For example, when writing a function in Javascript, you can just write *function* "name", with the parameters. Compared to Java, you would have to classify and state each part of a function, such as "public class Main". I also have a lot more to learn, in order to confidently say that I can do Javascript.
+
+<p align="center">
+<img width="400px" class="img-fluid" src="../img/Java vs Javascript.webp">
+</p>
 
 ## Athletic software engineering and WODs
 
