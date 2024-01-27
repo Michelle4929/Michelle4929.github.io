@@ -15,9 +15,6 @@ labels:
 
 Javascript is a programming language for creating dynamic web pages, such as content, multimedia, animated images, and much more. Although there are many different programming languages out there like Javascript, the first language I learned was Java. Compared to Java I am fairly new to Javascript, and after trying it, I realized there were a lot of similarities as well as differences. In terms of coding, the syntax and programming concepts were similar, which made it easy to transition certain aspects. For example, programming loops, conditional statements, and syntax signs such as end code statements.
 For differences, I would say the first thing I noticed was that Javascript felt laxer than Java. Java strongly checks its variables and functions before compilation, which makes it very object-oriented. In comparison, Javascript would still compile if I changed my string variable into an integer, which I feel like in the long run, could cause higher chances of error.
-<p align="center">
-<img width="400px" class="rounded float-start pe-4" src="../img/Java vs Javascript.webp">
-</p>
 
 ## How I feel about Javascript
 
@@ -30,3 +27,7 @@ My first experiences with Javascript were mostly positive due to how much easier
 ## My reflection on the current WODs
 
   As I did my first ever WOD on ProjectEuler, I realized the overwhelming benefits but the stressful method of learning. Project Euler was an exercise that required making a code to find the sum of all the multiples of 3 and 5 below 1000 within a time frame of 8 minutes. Up to that moment, I have never done a timed coding session before. Most of my coding sessions were at leisure, just with the time constraint of a due date. In that aspect, I was very stressed during my first WOD. Although the problem was fairly simple, I found myself struggling with syntaxes/methods I wasn't used to, as well as the pressure of finishing on time. I am typically a slow coder, so even though I am struggling with the WODs currently, I am hopeful that it will help me critically solve coding problems faster and withhold the pressure of solving them within a time constraint!
+
+<p align="center">
+<img width="400px" class="rounded float-start pe-4" src="../img/Java vs Javascript.webp">
+</p>
