@@ -12,7 +12,7 @@ labels:
 summary: "A short story I wrote that was published in 2018 Le'ahi Creative Arts Journal."
 ---
 
-```cpp
+```
 “Of course,” I reply, a tender warmth
 blossoming in my chest. “That’s what
 sisters are for.”
