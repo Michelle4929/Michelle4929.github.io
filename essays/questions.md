@@ -6,7 +6,8 @@ title: "Afraid to Ask the Right Question"
 date: 2024-01-23
 published: true
 labels:
-  - Engineering
+  - Questions
+  - Stack Overflow
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/stupid questions.gif">
