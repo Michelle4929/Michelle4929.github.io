@@ -11,7 +11,7 @@ labels:
   - Experience
 ---
 
-<p align="center"><img width="150px" class="rounded float-start pe-4" src="../img/soft.jpg"><img width="150px" class="rounded float-start pe-4" src="../img/versus.jpg"> <img width="200px" class="rounded float-start pe-4"  src="../img/rock.jpg"> </p>
+<p align="center"><img width="150px" class="img-fluid" src="../img/soft.jpg"><img width="150px" class="rounded float-start pe-4" src="../img/versus.jpg"> <img width="200px" class="rounded float-start pe-4"  src="../img/rock.jpg"> </p>
 
 
 ## Software Engineering
