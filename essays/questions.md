@@ -8,7 +8,6 @@ published: true
 labels:
   - Questions
   - Stack Overflow
-  - Smart
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/stupid questions.gif">
