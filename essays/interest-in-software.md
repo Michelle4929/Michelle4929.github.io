@@ -13,6 +13,7 @@ labels:
 
 <p align="center"><img width="150px" class="rounded float-start pe-4" src="../img/soft.jpg"><img width="150px" class="rounded float-start pe-4" src="../img/versus.jpg"> <img width="200px" class="rounded float-start pe-4"  src="../img/rock.jpg">
 
+
 ## Software Engineering
 
 Software engineering is one of the many different branches of computer science. Maybe we should first delve into what even computer science. Computer science is the study of computers and computation systems. It focuses on the development and testing of software and software systems. I've had many people confuse computer science and information technology(IT) as the same thing. Although both involve computers, computer science focuses on the development of software while IT focuses on the implementation, support, and management of computers. In other words, software engineers make the systems, while IT professionals make sure the computers and systems work well for all users.
