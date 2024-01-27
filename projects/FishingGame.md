@@ -26,7 +26,7 @@ Example of Gameplay:
     3. Release a fish from your sack
   1
     You hooked a fish!
-    Name: Weke'ula'
+    Name: Weke ula
     English Name: Yellowfin Goatfish
     Scientific Name: Mulloidichthys Vanciolensis
     Length: 14.68
