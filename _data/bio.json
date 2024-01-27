@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/97486797?s=400&u=0a9a19fffb7d8925be99333035fa457390b5d750&v=4",
     "email": "giyoung7@hawaii.edu",
-    "phone": "808-206-4929",
+    "phone": "",
     "website": "https://Michelle4929.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -51,7 +51,8 @@
         "Providing great customer service by serving guest and delivering food and beverages",
         "Responsible for opening and closing, including cashier duties"
       ]
-    },
+    }
+  ],
     {
       "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Computer Science",
