@@ -18,7 +18,7 @@ How many times have you heard that line before? Growing up, I've always been enc
 
 ## Why it's Important to Ask Questions
 
-Foremost, we should look at why we are asking questions. To help gain a better understanding of the subject matter. Questions are very powerful tools used to find solutions and identify gaps in our understanding. Questions can even be used to strengthen relationships. Professionally, when asking your employer a question about your job, it can show that you care about what you are doing or want to improve on what you are currently doing.
+First, we should look at why we are asking questions. To help gain a better understanding of the subject matter. Questions are very powerful tools used to find solutions and identify gaps in our understanding. Questions can even be used to strengthen relationships. Professionally, when asking your employer a question about your job, it can show that you care about what you are doing or want to improve on what you are currently doing.
 
 When asking a question, it is very important to ask them effectively. In most cases, before even asking the question, you should at least try to find the answer on your own, whether through a book or online search. To whoever you are asking the question to, they will greatly appreciate a bit of knowledge on the subject matter so it shows that you at least attempted to find the answer on your own before asking them for help. 
 
