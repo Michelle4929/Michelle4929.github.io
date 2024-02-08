@@ -11,7 +11,7 @@ labels:
   - IntelliJ
 ---
 <p align="center">
-<img width="600px" class="img-fluid" src="../img/ESLINT error.png">
+<img width="500px" class="img-fluid" src="../img/ESLINT error.png">
 </p>
 
 ## Coding Standards
