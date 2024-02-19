@@ -28,6 +28,7 @@ Here is an example of a website using a UI framework:
 <p align="center">
 <img width="600px" class="rounded float-start pe-4" src="../img/Chirofish.png">
 </p>
+
 Here is an example of a website that doesn't use a UI framework:
 <p align="center">
 <img width="600px" class="rounded float-start pe-4" src="../img/Ben Holmes.png">
