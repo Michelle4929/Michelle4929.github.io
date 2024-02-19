@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Afraid to Ask the Right Question"
+title: Responsive Design made Simple!
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-19
 published: true
@@ -9,8 +9,6 @@ labels:
   - UI Framework
   - Bootstrap 5
 ---
-
-<img width="400px" class="rounded float-start pe-4" src="">
 
 ## UI Framework
 
@@ -25,6 +23,15 @@ Learning each framework is similar to learning a different programming language,
 3) **Responsive Designs**: UI frameworks integrate responsive designs, which helps users create interfaces that automatically adjust and optimize their layout.
    
 4) **Cross-Platform Compatibility**: Creating an application that works on multiple platforms saves a load of time as developes only need to code it once and it can be used across various platforms such as web browsers, mobile devices, and much more. This allows versatility as both developers and end-users can access the application on their preferred device. It is very important to make an application user-friendly.
+
+Here is an example of a website using a UI framework:
+<p align="center">
+<img width="600px" class="rounded float-start pe-4" src="../img/Chirofish.png">
+</p>
+Here is an example of a website that doesn't use a UI framework:
+<p align="center">
+<img width="600px" class="rounded float-start pe-4" src="../img/Ben Holmes.png">
+</p>
 
 ## Bootstrap 5
 
