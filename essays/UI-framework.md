@@ -10,36 +10,38 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/stupid questions.gif">
+<img width="400px" class="rounded float-start pe-4" src="">
 
 ## UI Framework
 
 A UI framework is a collection of pre-built components, libraries, and design elements. These pre-built components and libraries are reusable in creating user interfaces and offer ready-to-use elements, such as buttons, icons, menu, and much more. People don't have to code every element of the application because of these frameworks. Although frameworks are very useful in speeding up efficiency, there are many different types out there. Some of the most popular ones are React, Sencha Ext JS, Vue.JS, Svelte, Semantic-UI, and Bootstrap.
 
-Learning each framework is similar to learning a different programming language, as you would need to learn the different nuances for the same application. So the question is why use these UI framework instead of everybody just using the raw HTML and CSS? I would say because UI frameworks offer many reasons and benefits that outway raw HTML and CSS. One of the main advantages is faster development time. When using a UI framework, you get a wide variety of pre-built components. By utilizing these resources, you avoid building code from scratch which in the long run saves time and is more efficient. Another is consistent design and user experience. Some people say user experience is the number one priority for every business. Using frameworks, help users see familiar patterns, which makes it easier to work with the interfaces to have a smooth and consistent experience. Also, UI frameworks integrate responsive designs, which helps users create interfaces that automatically adjust and optimize their layout.
+Learning each framework is similar to learning a different programming language, as you would need to learn the different nuances for the same application. So the question is why use these UI framework instead of everybody just using the raw HTML and CSS? I would say because UI frameworks offer many reasons and benefits that outway raw HTML and CSS.
 
-## Why it's Important to Ask Questions
+1) **Faster Development Time**: When using a UI framework, you get a wide variety of pre-built components. By utilizing these resources, you avoid building code from scratch which in the long run saves time and is more efficient.
+   
+2) **Consistent Design and User Experience**: Some people say user experience is the number one priority for every business. Using frameworks, help users see familiar patterns, which makes it easier to work with the interfaces to have a smooth and consistent experience.
+   
+3) **Responsive Designs**: UI frameworks integrate responsive designs, which helps users create interfaces that automatically adjust and optimize their layout.
+   
+4) **Cross-Platform Compatibility**: Creating an application that works on multiple platforms saves a load of time as developes only need to code it once and it can be used across various platforms such as web browsers, mobile devices, and much more. This allows versatility as both developers and end-users can access the application on their preferred device. It is very important to make an application user-friendly.
 
-First, we should look at why we are asking questions. To help gain a better understanding of the subject matter. Questions are very powerful tools used to find solutions and identify gaps in our understanding. Questions can even be used to strengthen relationships. Professionally, when asking your employer a question about your job, it can show that you care about what you are doing or want to improve on what you are currently doing.
+## Bootstrap 5
 
-When asking a question, it is very important to ask them effectively. In most cases, before even asking the question, you should at least try to find the answer on your own, whether through a book or online search. To whoever you are asking the question to, they will greatly appreciate a bit of knowledge on the subject matter so it shows that you at least attempted to find the answer on your own before asking them for help. 
+Bootstrap 5 is a UI framework that is dedicated to web development. Bootstrap is the most popular HTML, CSS, and Javascript framework for creating responsive websites. Bootstrap 5 being the latest version released as of 2024. It gives a number of pre-built components that optimize communication with users through navigation menus and page controls. The main structure consist of two basic directories, which is CSS and JS. CSS contains all the documents that are needed to style the page elements. While JS is the back end of the file, that is reponsible for the execution and requires interactive manipulation.
 
-## Stack Overflow
+Here are some features that highlight Bootstrap 5:
 
-Stack Overflow, is a computer programmer's best friend. A question-and-answer website for programmers of various needs. Although, you can technically ask any questions on Stack Overflow, any simple or badly phrased questions will most likely be overlooked or even criticized. It is very important to learn how to ask a question as well as appropriate questions in the proper location. Always be precise and informative about your problems. Specifics are always great in a question, it helps the reviewer know how to help.
+1) **Component Library**: The pre-built components that offer a series of elements to improve communication with the user and optimize interaction. All form elements have a consistent look that is supported in all OS and browser.
+     
+2) **Navigation Bar**: One of the most important components of Bootstrap 5, as it gives the possibility to build a more responsive navigation system. Enabling configuration of the menu in different ways, such as selecting between side or top positioning and defining the way users want.
+   
+3) **Responsive Designs**: Bootstrap is popular for its responsive websites! The framework works with the use of the class container, the styling of the element div to guarantee the responsive design. It gives a default responsive font size, allowing to scale the text responsively in all viewports and devices. The responsive design allows developers to adjust the dimensions of a page according to the needs of the user and in general.
+   
+4) **Carousel**: Allows developers to display images in a responsive way. In other words, they can add different effects and transitions to move from one photo to another. By adding back and forward buttons, it makes the process much easier and dynamic.
 
-#### Example of a Smart Question
+5) **Alerts**: Users can be alerted of something very specific by the developers that pop up on the website. For example, to pay attention to a new offer and a limited sale. Bootstrap allows developers to configure the alert however they want, such as changing the size and color to appeal to their users.
+   
+## My Personal Experience with Bootstrap 5
 
-Here is an example of a <a href="https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git"><i class="large github icon "></i>Smart Question</a> on Stack Overflow.
-
-Although it is a simple question that may be searched online for other possible solutions, stack overflow offers a more in-depth answer than a simple Google search. It might not be a complex question but it is still a smart question because of how clear and precise the question is. First, it has a clear goal in mind: To remove a commit in Git. Next, the details are nice additions, instead of saying a vague commit, it asks for the most recent local commit. Last, it also says where it wants it removed from, which is Git. Even though it is simple, it shows how well the question is received on stack overflow by the amount of views, votes, and answers. Most questions that are formatted wrong or stupid will sometimes not even be answered or looked at. This specific question on removing a commit has over 20,000 votes, 100 answers, and 13 million views. It only shows how much people are willing to answer and also how much people are looking for the answers to the same question. Even though you could simply google search the answer to removing a local commit from Git, it wasn't as clear as stack overflow. After searching through stack overflow, they offer multiple ways of removal as well as in-depth explanations of the different types. For example, on Google, the first search only offers the run of "git reset -- Head^". While stack overflow shows many different ways of removal, such as "git reset", "git reset -- soft", "git reset -- hard", and much more.
-
-#### Example of a Not Smart Question
-
-Here is an example of a <a href="https://stackoverflow.com/questions/44760112/marching-cubes-generating-holes-in-mesh"><i class="large github icon "></i>Not Smart Question</a> on Stack Overflow.
-
-Compared to the smart question example above, this question is obviously a not smart question from the get-go. First, the title is too general. When having a programming issue, it's best to name as many details as possible so that the receiver can answer as precisely as possible. Just writing "Marching Cubes generating holes in mesh" is extremely vague and hard to know what exactly is the problem. There is no mention of where the code is being used for as well as what it is being used for in the title. Second, once clicking on the question, the user is bombarded with an abundance of information. When posting a coding question, codes with over 100 lines to read over will most likely be looked over. Most people want to know where exactly you think your code is erroring so it is better to offer fewer codes and ask exactly which lines you might have a problem with. Even after sharing a huge block of code, they offer a link for more information with a lot of text to read, which makes it hard for users to answer or even know what exactly is the problem. As a result, there are no answers to this question even though it was posted over 6 years ago.
-
-## Conclusion
-
-It is very important in any environment to ask questions. To utilize questions, it is pertinent to know the difference between asking a smart or not smart question. After diving deeper into how to ask a smart question, I have learned some great lessons. When asking a smart question, it is good to be precise, informative, and appropriate no matter what the situation. People also appreciate if you have attempted to look for the answers yourselves first, as it shows you at least tried and care about learning more about the subject matter. I think it is a great skill to be able to ask smart questions and that everybody could learn to incorporate this lesson into their daily life!
+As I don't have much experience with designing websites using HTML and CSS. In the week that I have started learning both basic HTML and CSS as well as Bootstrap 5, I found some benefits and difficulties. Starting with the difficulties, since I started learning UI designing with basic HTML and CSS, I became very comfortable with it. The transition over to Bootstrap 5 initially was a little difficult as I had to learn different components for the same application. Although, I quickly learned how fast it was building a website using bootstrap. I first learned the about the navigation bar through bootstrap, which at first I thought was more tedious since I felt like I had to write more code in the JS factor but I soon realized the benefit as the framework came with pre-built components. For example, the class container already contains padding and aligns my content. The biggest difference I noticed was that I didn't have to use my CSS too often to control the parameters, as bootstrap already comes with a component library with certain parameters I can implement. Overall, I think if I continued using Bootstrap, it would definitely be more time efficient than just using basic HTML and CSS.
