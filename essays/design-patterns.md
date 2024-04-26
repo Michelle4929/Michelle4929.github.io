@@ -8,39 +8,23 @@ published: true
 labels:
   - Design Patterns
   - Programming
-  - Software Development
 ---
 
 ## My First Year Coding
 
-  
+  As I started on my coding journey, I was filled with excitement and curiousity, ready to explore all the different possibilites of programming. However, like most beginners, we make mistakes and are hesistant with each step forward. As my confidence was not present, I approached each problem with a sense of improvisation and messy solutions that seemed to work at the moment. My code obviously lacking in cohesion and clarity but my naive self unable to recognize the difference. Particulary when it came to design pattern, there was no discernible structure to guide the flow of words. As I repeat the same functions, not realizing there is a general repeatable solution to a commonly occuring problem. Even though I was unaware of the knowledge of design patterns, as I continue my journey with coding, my codes start to have a structural pattern. Although my attempts to incorporate these patterns are often clumsy and definitely leaves room for improvement, with each new project, I can see improvements in my coding practices.
 
-Here is an example of a website using a UI framework:
-<p align="center">
-<img width="600px" class="rounded float-start pe-4" src="../img/Chirofish.png">
-</p>
+## Design Patterns
 
-Here is an example of a website that doesn't use a UI framework:
-<p align="center">
-<img width="600px" class="rounded float-start pe-4" src="../img/Ben Holmes.png">
-</p>
+  In a world if software development was like cooking, design patterns are like the secret ingredients that turn a boring bland code into a flavorful masterpiece. Design patterns help software engineers use typical solutions to commonly occurring problems. Similar to having recipes you can use to solve recurring issues but have the flexibility of changing the order and features of the dish! Although, there are many different types of design patterns, there are three main groups:
 
-## Bootstrap 5
+1) **Creational**: They abstract the instantiation process, making the system more independent on how its objects are created. It increases flexibiliy and reuse of existing code. Creational design patterns are like crafting the blueprint. Patterns that are placed in this category are factory, abstract, builder, prototype, and singleton. In the case of Singleton, in the kitchen, with only one spatula, it ensures that there's only one chef in the kitchen able to wield it. Just like how Singleton pattern limits the instantiation of a class to a single instance, the spatula ensures there can only be one chef that can flip the burger at one time.
 
-Bootstrap 5 is a UI framework that is dedicated to web development. Bootstrap is the most popular HTML, CSS, and Javascript framework for creating responsive websites. Bootstrap 5 is the latest version released as of 2024. It gives a number of pre-built components that optimize communication with users through navigation menus and page controls. The main structure consists of two basic directories, which are CSS and JS. CSS contains all the documents that are needed to style the page elements. While JS is the back end of the file that is responsible for the execution and requires interactive manipulation.
-
-Here are some features that highlight Bootstrap 5:
-
-1) **Component Library**: The pre-built components that offer a series of elements to improve communication with the user and optimize interaction. All form elements have a consistent look that is supported in all OS and browsers.
      
-2) **Navigation Bar**: One of the most important components of Bootstrap 5, as it gives the possibility to build a more responsive navigation system. Enabling configuration of the menu in different ways, such as selecting between side or top positioning and defining the way users want.
+3) **Structural**: Explain how to assemble objects and classes into larger structures while still keeping them flexible and efficient. They use inheritance to compose interfaces and find ways to ccompose objects to obtain new functionality. Some patterns in this category are adapter, bridge, composite, decorator, facade, flyweight, and proxy. Stepping back into the bustling kitchen with ingredients prepped and tools in hands. The decorator pattern allows you to layer on enhancements without altering the base ingredients but adding flavors and textures. Just as an artist adds layers of paint onto their canvas, the decorator pattern adds new features to your objects without sacrificing their core structure.
    
-3) **Responsive Designs**: Bootstrap is popular for its responsive websites! The framework works with the use of the class container, and the styling of the element div to guarantee the responsive design. It gives a default responsive font size, allowing to scale the text responsively in all viewports and devices. The responsive design allows developers to adjust the dimensions of a page according to the needs of the user and in general.
-   
-4) **Carousel**: Allows developers to display images in a responsive way. In other words, they can add different effects and transitions to move from one photo to another. By adding back and forward buttons, it makes the process much easier and more dynamic.
+4) **Behavioral**: Is concerned with algorithms and the assignment of responsibilites between objects. They are most specifically concerned with communication between objects. These patterns characterize complex flow that's difficult to follow at run time. Some patterns in this category are chain of responsibiliy, memento, observer, mediator, iterator, state, strategy, template method, and visitor. One last look into the kitchen, your dish starts to take shape, and you realize that it's not just about the ingredients but how everything interacts. The observer pattern comes in as your taste tester, that keeps an eye on the cooking process and reacts to changes in real time, notifying the workers of any updates. The observer pattern facilitates communication between objects, ensuring they're on the same page even when the recipe changes.
 
-5) **Alerts**: Users can be alerted of something very specific by the developers that pop up on the website. For example, to pay attention to a new offer and a limited sale. Bootstrap allows developers to configure the alert however they want, such as changing the size and color to appeal to their users.
-   
-## My Personal Experience with Bootstrap 5
-
-As I don't have much experience with designing websites using HTML and CSS. In the week that I started learning both basic HTML and CSS as well as Bootstrap 5, I found some benefits and difficulties. Starting with the difficulties, since I started learning UI designing with basic HTML and CSS, I became very comfortable with it. The transition over to Bootstrap 5 initially was a little difficult as I had to learn different components for the same application. However, I quickly learned how fast it was to build a website using Bootstrap. In Bootstrap, the first thing I learned was about the navigation bar, which at first I thought was more tedious since I felt like I had to write more code in the JS factor but I soon realized the benefit as the framework came with pre-built components. For example, the class container already contains padding and aligns my content. The biggest difference I noticed was that I didn't have to use my CSS too often to control the parameters, as Bootstrap already comes with a component library with certain parameters I can implement. Overall, I think if I continued using Bootstrap, it would definitely be more time-efficient than just using basic HTML and CSS.
+<p align="center">
+<img width="400px" src="https://media.licdn.com/dms/image/D4D12AQEuzLBqR-ZH1Q/article-cover_image-shrink_720_1280/0/1657662542373?e=2147483647&v=beta&t=42nZNep-CujWlaCeLuQflv28Fa-kP4SZ5N-XKpWswUI">
+</p>
