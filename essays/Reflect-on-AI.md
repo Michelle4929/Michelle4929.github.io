@@ -11,6 +11,8 @@ labels:
   - ICS 314
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIc5DyQ2fJMw6NGu2CL8oWLuqeXsF--GT-6g&s">
+
 ### I. Introduction
 
 In this day and age, most people have heard about AI. Artificial Intelligence is technology that enables machines to perform tasks commonly associated with intelligent beings, such as humans. In education, most students in modern times know how to use AI, such as ChatGPT, copilot, and much more. The big question being how helpful is AI in terms of education and helping students without being detrimental to their learning. There are always two sides to a coin with some supporting the aid of AI and others disagreeing that AI encourages dishonesty in terms of learning. AI is generally a tool to assist people to work more efficiently and to proof check their work. In those terms, AI has both a positive and negative impact to one's education. As students should not rely on AI to do all their work but should be used to learn or help improve one's current work.
