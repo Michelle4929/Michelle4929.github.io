@@ -25,6 +25,7 @@ I have used AI in class this semester in the following areas:
   2. In-class Practice WODs: I did not use AI for in-class practice WODs as well. With the same mindset as experience homework WODS, I wanted to see if I could solve them on my own without help from AI but only from sources provided from the class.
 
   3. In-class WODs: I have used AI for several WODs. In the beginning, I didn't want to use AI, such as ChatGPT to help but as WODs became essentially harder to meet the time through each week. I found myself having to use ChatGPT on multiple occasion to debug my code or for styling issues. Especially when we started using bootstrap meteor, it was my first time using bootstrap functions so on multiple occasions, I found myself asking ChatGPT on how to use certain calls or why my website did not display what I wanted. For example, in the Morning Brew WOD, I asked ChatGPT: "In meteor bootstrap, how do I get my text to display over an image?", which it outputed:
+     
 ```
 .overlay-text {
     position: absolute;
