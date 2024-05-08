@@ -6,7 +6,7 @@ title: Humans vs. AI?
 date: 2024-05-05
 published: true
 labels:
-  - AI
+  - Artifical Intelligence(AI)
   - ChatGPT
   - ICS 314
 ---
@@ -88,11 +88,16 @@ AI definitely has practical applications you can use in the real-world outside o
 
 ### V. Challenges and Opportunities:
 
+Although AI potential is possibly limitless, it comes with its limitations and challenges. Specificially throughout ICS 314, I experienced the challenges of using AI to help debug my code or finding a solution to my problems. A lot of times, AI will give you basic framework but won't exactly execute what you need specifically. For example, when I attempted to create spacing inbetween my columns for one of the experience WODs. ChatGPT suggested making my columns bigger instead. Potential opportunites for integrating AI specifically in the software engineering education side would be offering dedicated AI courses/tracks, collaborative research projects, and guest lectures and workshops.
 
 ### VI. Comparative Analysis:
 
+Traditional teaching methods and AI-enhanced approaches in the context of software engineering education both have their pros and cons. Traditional teaching usually offers a more engaging experience which relies on in-person lectures, readings, and assignments. Although at times, if it's too lecture based it would not be as engaging but more passive learning as students may not be paying attention. While AI- enhanced approaches may not be engaging in terms of being personal with someone teaching you in-person but it might be more engaging through interactive learning. As it requires students to be more involved in how they use the AI to further improve their skills and knowledge. In terms of practical skill and knowledge retention, traditional teaching methods tend to be more conceptual based, which often limit hands-on practice and affects knowledge retention. While AI-enhanced approaches may facilitate skill and knowledge retention just by being hands-on.
 
 ### VII. Future Considerations:
 
+The future of AI in software engineering education will always be evolving, as software engineering focuses on advancing technological items/concepts. AI can help in productivity, efficiency, and skill development which would help future students of the field. Although there would be several challenges as well since you wouldn't want students to become to dependent on AI to do all their work for them without actually understanding the work. Areas for improvement would definitely be collaborative but also ethical in terms of enhancing learning experience and fostering innovation without taking away the future potential of students.
 
 ### VIII. Conclusion:
+
+In conclusion, I've explored the multifaceted role of AI in software engineering education, drawing from personal experiences and reflections. I've delved into the benefits and challenges of utilizing AI tools like ChatGPT across various educational contexts, including debugging code, understanding concepts, and generating ideas for essays. Through my narrative, I've underscored the importance of striking a balance between leveraging AI assistance and fostering a deep understanding of core concepts, emphasizing the need for active engagement in the learning process. Additionally, there are practical applications of AI in addressing real-world software engineering challenges and the potential for future integration of AI in education. Overall, the relationship between AI and learning within the realm of software engineering education should be balanced.
