@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Responsive Design made Simple!
+title: Humans vs. AI?
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-05
 published: true
@@ -79,9 +79,11 @@ This really helped me understand how to use filter on different problems and for
 
 ### III. Impact on Learning and Understanding:
 
+Using AI has definitely influeced my learning experience in terms of comprehension and efficiency. I found myself over the years depending on AI more for each class. Whenever I find myself stuck in a situation of confusion, I end up asking AI for help in understanding or fixing my problem. What I have learned is that AI is not always right, of course formatting the question correctly is also important but a lot of the times you need to actually understand the the material as well. If you just end up asking AI blindly on giving you an answer, you will have come out of that experience learning absolutely nothing as well as not even knowing if that answer is correct. AI has definitely enhanced my learning in software engineering concepts as if you are a programmer, there will be multiple times you get stuck and have to dig yourself out of the hole. I used to not use AI when I first started coding and I found myself just staring at my code for hours on end, which it would end up being a simple one letter bug that AI would've found for me in seconds. I think it's important to work along side AI to help increase efficiency but know how to do the work as well.
 
 ### IV. Practical Applications:
 
+AI definitely has practical applications you can use in the real-world outside of school. AI applications have proven effective in addressing real-world problems across various domains by data-driven insights, automation, and predictive analytics. For example, in terms of environmental conservations, AI is used to effectively monitor ecosystems, track wildlife populations, and detect environmental changes. AI can and is being used in multiple fields, such as in finance. AI is employed for fraud detection, risk assessment, customer service automation, and much more. There are many ways AI applications address real-world software engineering challenges. For example, AI technologies support collaborative software development practices by facilitating knowledge sharing, code reuse, code maintenance, and automation.These examples illustrate the diverse applications of AI across various industries and domains. AI will continue to evolve and grow across different fields and sections. 
 
 ### V. Challenges and Opportunities:
 
