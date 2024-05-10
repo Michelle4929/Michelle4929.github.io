@@ -4,7 +4,7 @@ type: project
 image: img/Kobetower.jpg
 title: "Conic Research"
 date: 2017
-published: true
+published: false
 labels:
   - Teamwork
   - Hyberbola
