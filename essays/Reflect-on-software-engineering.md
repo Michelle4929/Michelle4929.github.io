@@ -19,9 +19,9 @@ Throughout this software engineering course, I've discovered that it's not just 
 
 ### User Interface (UI) Frameworks
 
-UI frameworks are like toolkits that make it easier for developers to create user interfaces for all sorts of projects, like websites, desktop programs, and mobile apps. These frameworks provide a set of rules and tools that help developers design interfaces that are easy to use and look good. So, whether you're making a website or a mobile app, UI frameworks give you everything you need to make it work and look nice.
-
 <img width="600px" align="right" src="https://github.com/phoenix-codecrafters/phoenix-codecrafters.github.io/blob/main/doc/CalendarPage.png?raw=true">
+
+UI frameworks are like toolkits that make it easier for developers to create user interfaces for all sorts of projects, like websites, desktop programs, and mobile apps. These frameworks provide a set of rules and tools that help developers design interfaces that are easy to use and look good. So, whether you're making a website or a mobile app, UI frameworks give you everything you need to make it work and look nice.
 
 For example, the group project I did for this class was a studylink application aimed to provide a platform for students to connect, collaborate, and support each other in their academic pursuits. Understanding the importance of a user-friendly interface for fostering engagement, I turned to UI frameworks to streamline the design process and enhance the overall user experience. One of the pivotal features was the creation of study sessions and a shared calendar function accessible to all users. Moreover, integrating a shared calendar function into the application required careful consideration of usability and accessibility. Here, the UI framework's support for interactive components and data visualization proved invaluable. By incorporating a calendar component with features like event scheduling, the application's calendar function became a central hub for coordinating study sessions and managing academic schedules collaboratively.
 
