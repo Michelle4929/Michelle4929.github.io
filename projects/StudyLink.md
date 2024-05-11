@@ -33,8 +33,8 @@ Through its approach, StudyLink not only facilitates academic collaboration but 
  
 As a member of the development team, my contributions to StudyLink were in making the landing page, add study session page, and helping with the calendar page, with a focus on enhancing user experience and functionality. Firstly, I took the responsibility in designing and developing the application's landing page. This pivotal component serves as the gateway for users, providing an intuitive introduction to StudyLink's features and benefits. With attention to the visuals and user-centric design principles, I tried to make a landing page that not only captivates users but also conveys the essence of StudyLink's mission - fostering collaborative learning within the ICS community.
 
-<img width="500" class="img-fluid" src="../img/AddStudySessionPage.png">
-<img width="500" class="img-fluid" src="../img/CalendarPage.png">
+<p align="center"><img width="500" class="img-fluid" src="../img/AddStudySessionPage.png"></p>
+<p align="center"><img width="500" class="img-fluid" src="../img/CalendarPage.png"></p>
 
 Additionally, I played a pivotal role in refining two core features of the application: the calendar and the add study session page. The calendar serves as a central hub for scheduling and coordinating study sessions, allowing users to seamlessly align their study efforts with peers. Leveraging my expertise in software engineering and user interface design, I implemented intuitive calendar functionalities that empower users to effortlessly manage their study schedules and engage with fellow students. As the add study session page works directly with the calendar, I had to ensure seamless integration between the two.
 
