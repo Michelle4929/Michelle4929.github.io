@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/studylink-logo(1).png
+image: img/studylogo.png
 title: "StudyLink"
 date: 2024
 published: true
@@ -43,3 +43,7 @@ Additionally, I played a pivotal role in refining two core features of the appli
 Throughout my journey with StudyLink, I gained invaluable insights into the complexities of software development and user-centered design. Collaborating within my team taught me the importance of effective communication, adaptability, and collaboration in delivering impactful solutions. By navigating through the new functionalities of Bootstrap Meteor, I further developed my problem-solving skills and cultivated a deeper understanding of the different plug-ins.
 
 In conclusion, StudyLink stands as a testament to our collective commitment to revolutionizing collaborative learning within the UHM ICS community. StudyLink empowers students to fight through solitary studying and embrace the transformative potential of group study sessions.
+
+## To Visit Our Page
+
+If you would like to check out our project, feel free to visit our project home page.
