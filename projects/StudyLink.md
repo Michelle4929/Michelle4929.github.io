@@ -46,4 +46,4 @@ In conclusion, StudyLink stands as a testament to our collective commitment to r
 
 ## To Visit Our Page
 
-If you would like to check out our project, feel free to visit our project home page.
+If you would like to check out our project, feel free to visit our <a href="https://phoenix-codecrafters.github.io/"><i class="large github icon "></i>project home page</a>
